@@ -1,81 +1,102 @@
+
 <div align="center">
 
-# Hi 👋, I'm Robson
+# Olá! 👋 Eu sou o Robson
 
-### Developer in progress | Learning, building, and improving every day
+### Desenvolvedor em evolução | Tecnologia, aprendizado e soluções
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robsonds25)
+<p>
+  Busco aprimorar minhas habilidades em programação, desenvolver projetos práticos
+  e transformar ideias em soluções úteis, eficientes e bem estruturadas.
+</p>
+
+<p>
+  <a href="https://github.com/robsonds25">
+    <img src="https://img.shields.io/badge/GitHub-RobsonDS25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Robson" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 📊 GitHub Dashboard
+## 👨‍💻 Sobre mim
+
+- 📚 Estou em constante aprendizado na área de desenvolvimento de software.
+- 💡 Tenho interesse em tecnologia, programação e resolução de problemas.
+- 🛠️ Busco desenvolver projetos práticos para consolidar meus conhecimentos.
+- 🚀 Meu objetivo é evoluir continuamente e criar soluções cada vez melhores.
+- 🤝 Estou aberto a aprender com a comunidade e colaborar em projetos.
+
+---
+
+## 🧰 Tecnologias e ferramentas
 
 <div align="center">
 
-<a href="https://github.com/robsonds25">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=robsonds25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Robson's GitHub statistics" />
-</a>
-<a href="https://github.com/robsonds25">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonds25&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,cs,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas" />
 
 </div>
 
-## 🧰 Technologies
+<p align="center">
+  <sub>As tecnologias exibidas representam áreas de interesse e aprendizado. A lista pode ser ajustada conforme minha experiência prática.</sub>
+</p>
+
+---
+
+## 🚀 Projetos
+
+Aqui compartilho meus estudos, experimentos e projetos de desenvolvimento.
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /></a>
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="48" alt="C Sharp" /></a>
-
-</div>
-
-> Keep this list aligned with the technologies you actually use. Remove any icon that doesn't represent your current skills.
-
-## 🚀 Featured Projects
-
-<!-- Replace these examples with your real repositories. -->
-<div align="center">
-
-<a href="https://github.com/robsonds25">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsonds25&repo=REPLACE_WITH_REPOSITORY_1&theme=tokyonight&hide_border=true" alt="Featured project 1" />
-</a>
-<a href="https://github.com/robsonds25">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsonds25&repo=REPLACE_WITH_REPOSITORY_2&theme=tokyonight&hide_border=true" alt="Featured project 2" />
+<a href="https://github.com/robsonds25?tab=repositories">
+  <img src="https://img.shields.io/badge/Explorar%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus repositórios" />
 </a>
 
 </div>
 
-## 📈 Contribution Activity
+**O que você encontrará por aqui:**
+- 📌 Projetos desenvolvidos durante meus estudos.
+- 💻 Aplicações e experimentos com diferentes tecnologias.
+- 📈 Melhorias contínuas nos códigos e nas soluções desenvolvidas.
+
+---
+
+## 📊 Meu GitHub
 
 <div align="center">
 
-[![Robson's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robsonds25&theme=tokyo-night&hide_border=true)](https://github.com/robsonds25)
+<a href="https://github.com/robsonds25">
+  <img src="https://img.shields.io/badge/Visite%20meu%20perfil-GitHub-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="Visite meu perfil no GitHub" />
+</a>
 
-</div>
+<br />
+<br />
 
-## 🌐 Connect with me
-
-<div align="center">
-
-<!-- Replace the placeholder URLs with your actual profiles; remove any platform you don't use. -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+<img src="https://img.shields.io/badge/Foco-Aprendizado%20cont%C3%ADnuo-198754?style=flat-square" alt="Aprendizado contínuo" />
+<img src="https://img.shields.io/badge/Objetivo-Evolu%C3%A7%C3%A3o%20t%C3%A9cnica-6F42C1?style=flat-square" alt="Evolução técnica" />
 
 </div>
 
 ---
 
+## 🎯 Objetivos
+
+- Consolidar fundamentos de programação.
+- Desenvolver projetos cada vez mais completos.
+- Aprimorar a organização, a qualidade e a manutenção do código.
+- Aprender novas tecnologias de acordo com as necessidades dos projetos.
+- Construir um portfólio que demonstre minha evolução profissional.
+
+---
+
 <div align="center">
 
-**Thanks for visiting my profile!** ⭐
+### Obrigado pela visita! ⭐
+
+**Aprender, praticar, construir e evoluir.**
+
+[![GitHub](https://img.shields.io/badge/Confira%20meus%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robsonds25?tab=repositories)
 
 </div>
