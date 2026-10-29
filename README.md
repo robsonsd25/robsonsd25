@@ -47,9 +47,6 @@ Estou construindo minha base em programação, aprendendo Java e desenvolvendo m
 
 
 
-**Estudando:** Java  
-**Conhecendo:** Git e GitHub
-
 </div>
 
 ## 📘 O que estou estudando
