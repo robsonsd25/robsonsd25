@@ -5,7 +5,18 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-robsonds25-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/robsonds25)
+
+<p align="left">
+  <a href="https://github.com/robsonsd25">
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/robson-ribeiro-b9b553227">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:robsonsd25@gmail.com">
+    <img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</p>
 
 # Olá! Eu sou o Robson 👋
 
