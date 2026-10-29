@@ -76,7 +76,7 @@ Quando eu publicar projetos, pretendo incluir em cada repositório:
 
 <br>
 
-<img src="https://raw.githubusercontent.com/robsonds25/robsonds25/output/github-snake-dark.svg" alt="Animação das contribuições do GitHub">
+<img src="https://raw.githubusercontent.com/robsonsd25/robsonsd25/output/github-snake-dark.svg" alt="Animação das contribuições do GitHub">
 
 </div>
 
