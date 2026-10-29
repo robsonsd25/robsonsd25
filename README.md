@@ -51,55 +51,11 @@ Estou construindo minha base em programação, aprendendo Java e desenvolvendo m
 
 ## 📘 O que estou estudando
 
-☕ Back-end
-
-Java 26
-
-Spring Boot 4.x
-
-Spring Web
-
-Spring Data JPA
-
-Spring Security
-
-JWT com JJWT
-
-Bean Validation
-
-Global Exception Handler
-
-Maven
-
-Docker
-
-🗄️ Banco de Dados
-
-PostgreSQL
-
-H2 Database
-
-Modelagem de dados relacionais
-
-Flyway — migrações e versionamento do banco de dados
-
-🧪 Testes Automatizados
-
-JUnit 5
-
-Mockito
-
-MockMvc
-
-🎨 Front-end — Fundamentos
-
-React
-
-Vite
-
-Consumo de APIs REST
-
-CORS
+Java: lógica de programação, orientação a objetos, classes, interfaces e coleções.
+Spring Boot: desenvolvimento de aplicações backend com o ecossistema Spring.
+API REST: conceitos de comunicação entre aplicações utilizando HTTP e JSON.
+Git: controle de versão, commits, branches e gerenciamento de alterações.
+GitHub: versionamento remoto, organização de repositórios e compartilhamento de projetos.
 
 *Esta lista representa minha trilha de estudos e será atualizada conforme eu avançar.*
 
