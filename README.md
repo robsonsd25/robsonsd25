@@ -51,33 +51,55 @@ Estou construindo minha base em programação, aprendendo Java e desenvolvendo m
 
 ## 📘 O que estou estudando
 
-Back-end:
+☕ Back-end
 
-Java 26, Spring Boot 4.x
+Java 26
 
-Spring Web, Spring Data JPA
+Spring Boot 4.x
 
-Spring Security, JWT (JJWT)
+Spring Web
 
-Bean Validation, Global Exception Handler
+Spring Data JPA
 
-Maven, Docker
+Spring Security
 
-Banco de Dados:
+JWT com JJWT
 
-PostgreSQL, H2 (Database)
+Bean Validation
 
-Modelagem de dados relacional
+Global Exception Handler
 
-Flyway (Migração de banco)
+Maven
 
-Testes:
+Docker
 
-JUnit 5, Mockito, MockMvc
+🗄️ Banco de Dados
 
-Front-end (Básico):
+PostgreSQL
 
-React (Vite), Consumo de APIs REST, CORS
+H2 Database
+
+Modelagem de dados relacionais
+
+Flyway — migrações e versionamento do banco de dados
+
+🧪 Testes Automatizados
+
+JUnit 5
+
+Mockito
+
+MockMvc
+
+🎨 Front-end — Fundamentos
+
+React
+
+Vite
+
+Consumo de APIs REST
+
+CORS
 
 *Esta lista representa minha trilha de estudos e será atualizada conforme eu avançar.*
 
