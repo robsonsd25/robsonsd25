@@ -52,79 +52,14 @@ Estou construindo minha base em programação, aprendendo Java e desenvolvendo m
 ## 📘 O que estou estudando
 
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Conhecimentos Técnicos</title>
 
-    <style>
-        body {
-            background-color: #0d1117;
-            color: #f0f6fc;
-            font-family: Arial, sans-serif;
-            padding: 30px;
-        }
+## 💻 Conhecimentos Técnicos
 
-        .container {
-            max-width: 750px;
-            margin: auto;
-        }
-
-        h2 {
-            color: #58a6ff;
-            margin-bottom: 20px;
-        }
-
-        ul {
-            padding-left: 25px;
-        }
-
-        li {
-            margin-bottom: 14px;
-            line-height: 1.6;
-        }
-
-        strong {
-            color: #ffffff;
-        }
-    </style>
-</head>
-
-<body>
-    <div class="container">
-        <h2>Conhecimentos Técnicos</h2>
-
-        <ul>
-            <li>
-                <strong>Java:</strong> lógica de programação,
-                orientação a objetos, classes, interfaces e coleções.
-            </li>
-
-            <li>
-                <strong>Spring Boot:</strong> desenvolvimento de
-                aplicações backend com o ecossistema Spring.
-            </li>
-
-            <li>
-                <strong>API REST:</strong> conceitos de comunicação
-                entre aplicações utilizando HTTP e JSON.
-            </li>
-
-            <li>
-                <strong>Git:</strong> controle de versão, commits,
-                branches e gerenciamento de alterações.
-            </li>
-
-            <li>
-                <strong>GitHub:</strong> versionamento remoto,
-                organização de repositórios e compartilhamento de projetos.
-            </li>
-        </ul>
-    </div>
-</body>
-</html>
+- **Java:** lógica de programação, orientação a objetos, classes, interfaces e coleções.
+- **Spring Boot:** desenvolvimento de aplicações backend com o ecossistema Spring.
+- **API REST:** conceitos de comunicação entre aplicações utilizando HTTP e JSON.
+- **Git:** controle de versão, commits, branches e gerenciamento de alterações.
+- **GitHub:** versionamento remoto, organização de repositórios e compartilhamento de projetos.
 
 
 *Esta lista representa minha trilha de estudos e será atualizada conforme eu avançar.*
