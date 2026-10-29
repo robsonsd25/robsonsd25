@@ -40,27 +40,20 @@
 
 ###
 
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=robsonsd25&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonsd25&layout=compact&langs_count=5&theme=tokyonight&locale=pt-br&hide_border=true"
-    alt="Linguagens mais usadas"
-  />
-</div>
-
-###
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/robsonsd25/robsonsd25/snake-output/snake.svg"
-    alt="Animação da cobrinha nas contribuições do GitHub"
-    width="100%"
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=robsonsd25&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br&hide_border=true"
+    alt="Estatísticas do GitHub de Robson"
+  />
+  &nbsp;&nbsp;
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=robsonsd25&layout=compact&langs_count=5&theme=tokyonight&locale=pt-br&hide_border=true"
+    alt="Linguagens mais utilizadas por Robson"
   />
 </div>
+
 
 ###
