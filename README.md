@@ -49,10 +49,6 @@ Estou construindo minha base em programação, aprendendo Java e desenvolvendo m
 
 </div>
 
-## 📘 O que estou estudando
-
-
-
 ## 💻 Conhecimentos Técnicos
 
 - **Java:** lógica de programação, orientação a objetos, classes, interfaces e coleções.
