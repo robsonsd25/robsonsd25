@@ -26,6 +26,13 @@ Estou construindo minha base em programação, aprendendo Java e desenvolvendo m
 
 </div>
 
+<h2 align="left">🔹 Tecnologias & Ferramentas</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,git,mysql,vscode,idea,postman&theme=dark" alt="Java, Git, MySQL, VS Code, IntelliJ IDEA e Postman" />
+</div>
+
+
 ---
 
 ## 👨‍💻 Sobre mim
