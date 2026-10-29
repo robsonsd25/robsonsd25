@@ -82,7 +82,7 @@ Quando eu publicar projetos, pretendo incluir em cada repositório:
 
 ## 📫 Contato
 
-- GitHub: [@robsonds25](https://github.com/robsonds25)
+- GitHub: [@robsonsd25](https://github.com/robsonsd25)
 - LinkedIn: www.linkedin.com/in/robson-ribeiro-b9b553227
 
 ---
