@@ -51,12 +51,33 @@ Estou construindo minha base em programação, aprendendo Java e desenvolvendo m
 
 ## 📘 O que estou estudando
 
-- Fundamentos da linguagem Java
-- Variáveis, tipos de dados e operadores
-- Estruturas condicionais e de repetição
-- Métodos e organização do código
-- Orientação a objetos: classes, objetos, encapsulamento e herança
-- Git e GitHub para controle de versão
+Back-end:
+
+Java 26, Spring Boot 4.x
+
+Spring Web, Spring Data JPA
+
+Spring Security, JWT (JJWT)
+
+Bean Validation, Global Exception Handler
+
+Maven, Docker
+
+Banco de Dados:
+
+PostgreSQL, H2 (Database)
+
+Modelagem de dados relacional
+
+Flyway (Migração de banco)
+
+Testes:
+
+JUnit 5, Mockito, MockMvc
+
+Front-end (Básico):
+
+React (Vite), Consumo de APIs REST, CORS
 
 *Esta lista representa minha trilha de estudos e será atualizada conforme eu avançar.*
 
