@@ -1,9 +1,6 @@
 
-<h3 align="left">
-  Olá! 👋 Eu sou Robson<br>
-  Desenvolvedor em evolução | Tecnologia e programação<br>
-  Aprendendo continuamente, desenvolvendo projetos práticos e transformando conhecimento em soluções.
-</h3>
+<h3 data-importer="text" align="center">Olá! 👋 Eu sou Robson<br>Desenvolvedor em evolução | Tecnologia, programação<br>Aprendendo continuamente, desenvolvendo projetos práticos e transformando conhecimento em soluções.</h3>
+
 
 ###
 
