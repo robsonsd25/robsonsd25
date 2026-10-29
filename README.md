@@ -45,17 +45,7 @@ Estou construindo minha base em programação, aprendendo Java e desenvolvendo m
 
 > Estou no começo da jornada e acredito que cada exercício, erro corrigido e conceito aprendido faz parte da construção de uma boa base técnica.
 
-## 🛠️ Tecnologias e ferramentas
 
-<div align="center">
-
-<img alt="Java" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-&nbsp;&nbsp;
-<img alt="Git" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-&nbsp;&nbsp;
-<img alt="GitHub" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
-<br>
 
 **Estudando:** Java  
 **Conhecendo:** Git e GitHub
