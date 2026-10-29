@@ -69,16 +69,15 @@ Quando eu publicar projetos, pretendo incluir em cada repositório:
 ## 📊 Minha atividade no GitHub
 
 <div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=robsonsd25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Estatísticas do GitHub">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=robsonds25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="Estatísticas do GitHub">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonds25&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens dos repositórios">
-
-<br>
-
-<img src="https://raw.githubusercontent.com/robsonsd25/robsonsd25/output/github-snake-dark.svg" alt="Animação das contribuições do GitHub">
-
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=robsonsd25&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens dos repositórios">
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/robsonsd25/robsonsd25/output/github-snake-dark.svg" alt="Animação das contribuições do GitHub">
+</div>
+
 
 ## 📫 Contato
 
