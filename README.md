@@ -83,7 +83,7 @@ Quando eu publicar projetos, pretendo incluir em cada repositório:
 ## 📫 Contato
 
 - GitHub: [@robsonds25](https://github.com/robsonds25)
-- LinkedIn: *adicione aqui o link do seu perfil, quando quiser divulgá-lo*
+- LinkedIn: www.linkedin.com/in/robson-ribeiro-b9b553227
 
 ---
 
