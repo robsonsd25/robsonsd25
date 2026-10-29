@@ -91,12 +91,7 @@ Quando eu publicar projetos, pretendo incluir em cada repositório:
 
 
 
-## 📫 Contato
 
-- GitHub: [@robsonsd25](https://github.com/robsonsd25)
-- LinkedIn: www.linkedin.com/in/robson-ribeiro-b9b553227
-
----
 
 <div align="center">
   <sub>Aprendendo um pouco todos os dias. O importante é continuar evoluindo. 🚀</sub>
