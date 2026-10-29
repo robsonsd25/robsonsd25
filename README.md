@@ -1,103 +1,47 @@
+<h3 data-importer="text" align="left">Olá! 👋 Eu sou Robson<br>Desenvolvedor em evolução | Tecnologia, programação<br>Aprendendo continuamente, desenvolvendo projetos práticos e transformando conhecimento em soluções.</h3>
 
-<div align="center">
+###
 
-# Olá! 👋 Eu sou Robson
-
-### Desenvolvedor em evolução | Tecnologia, programação e inovação
-
-<p>Aprendendo continuamente, desenvolvendo projetos práticos e transformando conhecimento em soluções.</p>
-
-<a href="https://github.com/robsonds25">
-  <img src="https://img.shields.io/badge/GitHub-robsonds25-181717?style=for-the-badge&logo=github" alt="GitHub de Robson" />
-</a>
-
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
 </div>
 
----
+###
 
-## 👨‍💻 Sobre mim
-
-- 💻 Interessado em desenvolvimento de software e tecnologia.
-- 📚 Em constante aprendizado e evolução técnica.
-- 🛠️ Desenvolvendo projetos para colocar conhecimentos em prática.
-- 🎯 Focado em melhorar a qualidade, a organização e a eficiência do código.
-- 🤝 Aberto a compartilhar conhecimento e colaborar em projetos.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/robsonds25">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=robsonds25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
+<div data-importer="socials" align="left">
+  <a href="robsonsd25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://github.com/robsonds25">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=robsonds25&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+  <a href="www.linkedin.com/in/robson-ribeiro-b9b553227" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
----
+###
 
-## 🧰 Tecnologias e ferramentas
-
-<div align="center">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python" /></a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="45" alt="C#" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="Visual Studio Code" /></a>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/robsonsd25/robsonsd25/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/robsonsd25/robsonsd25/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 🚀 Projetos em destaque
+<br clear="both">
 
-<div align="center">
+<img data-importer="image" align="right" height="0" src="https://i.imgflip.com/65efzo.gif"  />
 
-<a href="https://github.com/robsonds25?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-181717?style=for-the-badge&logo=github" alt="Ver todos os projetos" />
-</a>
+###
 
-</div>
+<br clear="both">
 
-Explore meus repositórios para conhecer meus estudos, experimentos e projetos.
+<img data-importer="snake" src="https://raw.githubusercontent.com/robsonsd25/robsonsd25/snake-output/snake.svg" alt="Snake animation" />
 
----
-
-## 🐍 Histórico de contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robsonds25/robsonds25/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robsonds25/robsonds25/output/github-snake.svg" />
-  <img alt="Animação do histórico de contribuições do GitHub" src="https://raw.githubusercontent.com/robsonds25/robsonds25/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-<a href="https://github.com/robsonds25">
-  <img src="https://img.shields.io/badge/GitHub-Acompanhe%20meus%20projetos-181717?style=for-the-badge&logo=github" alt="Meu GitHub" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Obrigado pela visita!
-
-**Aprender • Praticar • Construir • Evoluir**
-
-</div>
+###
