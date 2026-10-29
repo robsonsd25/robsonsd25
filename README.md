@@ -66,17 +66,18 @@ Quando eu publicar projetos, pretendo incluir em cada repositório:
 - Como executar o programa.
 - O que aprendi e o que pretendo melhorar.
 
-## 📊 Minha atividade no GitHub
+## ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=robsonsd25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=robsonsd25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&locale=pt-br" alt="Estatísticas do GitHub em português">
 
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=robsonsd25&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens dos repositórios">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=robsonsd25&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=pt-br&langs_count=6" alt="Linguagens mais utilizadas nos repositórios">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/robsonsd25/robsonsd25/output/github-snake-dark.svg" alt="Animação das contribuições do GitHub">
+  <img src="https://raw.githubusercontent.com/robsonsd25/robsonsd25/output/github-snake-dark.svg" alt="Animação das contribuições no GitHub">
 </div>
+
 
 
 ## 📫 Contato
